@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ACD bot](https://github.com/ACodeDaily/TLE-ACodeDaily)
 
-- 🌱 I’m currently learning **React, Python, Node, Threee.js**
+- 🌱 I’m currently learning **Python, Three.js**
 
 - 🤝 I’m looking for help with [A code daily](https://github.com/ACodeDaily/AcodeDaily)
 
