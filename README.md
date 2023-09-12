@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-pranav&label=Profile%20views&color=0e75b6&style=flat" alt="i-pranav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-pranav" alt="i-pranav" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/i_pranavmehta" target="blank"><img src="https://img.shields.io/twitter/follow/i_pranavmehta?logo=twitter&style=for-the-badge" alt="i_pranavmehta" /></a> </p>
 
 - 🔭 I’m currently working on [ACD bot](https://github.com/ACodeDaily/TLE-ACodeDaily)
@@ -24,7 +22,6 @@
 <a href="https://twitter.com/i_pranavmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_pranavmehta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranav-mehta-b5a18b1ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-mehta-b5a18b1ba" height="30" width="40" /></a>
 <a href="https://instagram.com/pranav.aesthetics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav.aesthetics" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/a code daily!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a code daily!" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/i_pranav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_pranav" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mepranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mepranav" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/i_pranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_pranav" height="30" width="40" /></a>
