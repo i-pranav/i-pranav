@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Mehta</h1>
 <h3 align="center">A software engineer and a competitive programmer</h3>
-<img align="right" alt="coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3k5tT01Tisjq2N1OS45pbnYkdBbrUv9nvIQ&usqp=CAU">
+<img align="right" alt="coding" width="350" src="https://github.com/i-pranav/i-pranav/blob/main/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-pranav&label=Profile%20views&color=0e75b6&style=flat" alt="i-pranav" /> </p>
 
 <p align="left"> <a href="https://twitter.com/i_pranavmehta" target="blank"><img src="https://img.shields.io/twitter/follow/i_pranavmehta?logo=twitter&style=for-the-badge" alt="i_pranavmehta" /></a> </p>
