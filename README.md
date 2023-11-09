@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_pranavmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_pranavmehta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranav-mehta-b5a18b1ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-mehta-b5a18b1ba" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/i-pranavmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-mehta-b5a18b1ba" height="30" width="40" /></a>
 <a href="https://instagram.com/pranav.aesthetics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav.aesthetics" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/i_pranav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_pranav" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mepranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mepranav" height="30" width="40" /></a>
